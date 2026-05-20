@@ -1,14 +1,14 @@
-# 🚀 Playwright Automation Framework (Java)
+#  Playwright Automation Framework (Java)
 
-## 📌 Overview
+## Overview
 
 This project demonstrates a **real-world test automation framework** built using **Playwright with Java**, designed to validate modern web applications with a focus on **scalability, reliability, and maintainability**.
 
 The framework reflects my approach as a QA Engineer — starting from **manual understanding of workflows** and translating them into **robust automated test coverage**.
 
----
+##
 
-## 🎯 What This Project Covers
+## What This Project Covers
 
 * End-to-end automation of key user flows (e.g., booking, pricing validation, UI checks)
 * Validation of dynamic data (prices, containers, totals, etc.)
@@ -19,9 +19,9 @@ The framework reflects my approach as a QA Engineer — starting from **manual u
   * Async loading
   * Data-driven inputs
 
----
+##
 
-## 🧠 My QA Approach
+## My QA Approach
 
 This framework is not just about automation — it reflects a **complete QA mindset**:
 
@@ -41,9 +41,9 @@ This framework is not just about automation — it reflects a **complete QA mind
 
    * Strong assertions for UI + business rules
 
----
+##
 
-## 🏗️ Framework Design
+## Framework Design
 
 * **Page Object Model (POM)** for maintainability
 * **Reusable methods** to reduce duplication
@@ -54,36 +54,36 @@ This framework is not just about automation — it reflects a **complete QA mind
   * Page actions
   * Assertions
 
----
+##
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Java**
 * **Playwright**
 * **Maven**
 * **TestNG / JUnit** *(update if needed)*
 
----
+##
 
-## 🔍 Key Highlights
+## Key Highlights
 
 * Automated validation of pricing and booking workflows
 * Dynamic locator handling using Playwright
 * Clean and readable assertion structure
 * Scalable design for future test expansion
 
----
+##
 
-## 🚧 Challenges Solved
+## Challenges Solved
 
 * Handling dynamic UI elements and text mismatches
 * Managing date selections and test data inputs
 * Reducing flaky tests through stable locators
 * Ensuring accurate validation of calculated values
 
----
+##
 
-## 📈 What This Shows About Me
+## What This Shows About Me
 
 This project demonstrates:
 
@@ -93,15 +93,15 @@ This project demonstrates:
 * Writing **clean, maintainable automation code**
 * Thinking beyond tools — focusing on **quality engineering**
 
----
+##
 
-## 👩‍💻 Author
+## Author
 
 **Fazila Ali**
 QA Engineer | Automation Tester
 
----
+##
 
-## ⭐ Note
+## Note
 
 This project is continuously evolving as I explore better automation practices and tools.
